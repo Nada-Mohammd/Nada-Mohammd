@@ -1,4 +1,5 @@
-<h1 align="center">Hi There! 👋</h1>
+<h2 align="center">Hi, I'm Nada! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
 
 <p align="center">
 I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University.
@@ -7,8 +8,8 @@ I'm a Computer Science student at the Faculty of Computers and Artificial Intell
 ---
 
 ### 👩‍💻 About Me:
-- 🎓 I’m a 3rd-year CS student.
-- 🌱 I’m currently learning: AI, Data Science, Web Development.
+- 🎓 I’m a 3rd-year IS student.
+- 🎯 Interested in AI, software architecture, and full-stack development.
 - 🔍 Interested in Internships & Real-world Projects.
 - 🤝 I love collaborating with others and working on creative solutions.
 
